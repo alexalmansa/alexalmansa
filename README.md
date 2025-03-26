@@ -19,23 +19,12 @@ Cloud & DevOps Engineer with expertise in AWS, GCP, and Kubernetes. Passionate a
 - **Monitoring:** Prometheus, Grafana, Loki
 - **Other:** RabbitMQ, PostgreSQL, Spring Framework
 
-### 🔭 Experience
-
-- **DevOps / Cloud Engineer** at NUVOLAR (2024 - Present)
-- **Backend Developer** at NUVOLAR (2021 - 2023)
-- **Software Developer** at V2M (2019 - 2021)
 
 ### 🌱 Recent Projects
 
 - **[Drop In - Surf Wave Pool Booking Platform](https://dropinbcn.com)** - A modern web application for booking sessions at a wave pool surfing facility built with Next.js, TypeScript, and Supabase.
 - **Real Estate Management System** - A comprehensive system for managing real estate properties, buildings, tenants, and related operations.
 
-### 🌍 Languages
-
-- Spanish (Native)
-- Catalan (Native)
-- English (Advanced - C1)
-- French (Basic)
 
 ### 📫 Let's Connect
 
