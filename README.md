@@ -23,7 +23,6 @@ Cloud & DevOps Engineer with expertise in AWS, GCP, and Kubernetes. Passionate a
 ### 🌱 Recent Projects
 
 - **[Drop In - Surf Wave Pool Booking Platform](https://dropinbcn.com)** - A modern web application for booking sessions at a wave pool surfing facility built with Next.js, TypeScript, and Supabase.
-- **Real Estate Management System** - A comprehensive system for managing real estate properties, buildings, tenants, and related operations.
 
 
 ### 📫 Let's Connect
