@@ -12,18 +12,12 @@ Cloud & DevOps Engineer with expertise in AWS, GCP, and Kubernetes. Passionate a
 ### 💻 Tech Stack
 
 - **Cloud Platforms:** AWS, Google Cloud Platform (GCP)
-- **Infrastructure as Code:** Terraform, CloudFormation, OpenTofu, Helm, Plumini
+- **Infrastructure as Code:** Terraform, CloudFormation, OpenTofu, Helm, Ansible
 - **CI/CD:** Jenkins, GitHub Actions, GitLab CI, ArgoCD
 - **Containerization:** Kubernetes, Docker
 - **Programming:** Java, Python, Bash, JavaScript, Go
 - **Monitoring:** Prometheus, Grafana, Loki
 - **Other:** RabbitMQ, PostgreSQL, Spring Framework
-
-
-### 🌱 Recent Projects
-
-- **[Drop In - Surf Wave Pool Booking Platform](https://dropinbcn.com)** - A modern web application for booking sessions at a wave pool surfing facility built with Next.js, TypeScript, and Supabase.
-
 
 ### 📫 Let's Connect
 
